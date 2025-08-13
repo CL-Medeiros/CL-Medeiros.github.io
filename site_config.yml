@@ -1,0 +1,12 @@
+# GitHub Pages Configuration File
+
+# Theme for your site
+theme: jekyll-theme-minimal
+
+# Site title and description
+title: Caio's Dev Portfolio
+description: Showcasing my web development projects, coding journey, and interactive websites.
+
+# Optional: Customize the URL (leave commented if not needed)
+# url: https://username.github.io
+# baseurl: /your-repo-name
